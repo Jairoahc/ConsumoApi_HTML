@@ -1,0 +1,25 @@
+{
+  "name": "consumoapi_html",
+  "version": "1.0.0",
+  "description": "Consumo de API conectado al front.",
+  "main": "CreacionApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jairoahc/ConsumoApi_HTML.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jairoahc/ConsumoApi_HTML/issues"
+  },
+  "homepage": "https://github.com/Jairoahc/ConsumoApi_HTML#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
